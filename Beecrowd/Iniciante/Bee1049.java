@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class beee1049 {
+public class Bee1049 {
     public static void main(String args[]){
         Scanner s = new Scanner(System.in);
         String primeiro = s.nextLine();

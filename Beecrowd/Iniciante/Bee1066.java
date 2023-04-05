@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class beee1066 {
+public class Bee1066 {
     public static void main(String args[]){
         Scanner s = new Scanner(System.in);
         int primeiro,contadorpar,contadorimpar,contadorpos,contadorneg;
